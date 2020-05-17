@@ -1,5 +1,5 @@
 {
-  "name": "watchtree",
+  "name": "@megakill/watchtree",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/andypopa/watchtree.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "andypopa",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/andypopa/watchtree/issues"

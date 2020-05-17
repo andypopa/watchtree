@@ -22,7 +22,7 @@ const headerLeft = blessed.box({
     left: 'start',
     width: '50%',
     height: 1,
-    content: `Every ${intervalLenS}s: tree`,
+    content: `Every ${intervalLenS}s: watchtree`,
     tags: true,
 });
 
