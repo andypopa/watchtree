@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/andypopa/watchtree#readme",
   "dependencies": {
-    "dir-tree-creator": "^4.0.0"
+    "dir-tree-creator": "^4.0.0",
+    "yargs": "^15.3.1"
   }
 }
