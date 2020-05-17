@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/andypopa/watchtree/issues"
   },
-  "homepage": "https://github.com/andypopa/watchtree#readme"
+  "homepage": "https://github.com/andypopa/watchtree#readme",
+  "dependencies": {
+    "dir-tree-creator": "^4.0.0"
+  }
 }
